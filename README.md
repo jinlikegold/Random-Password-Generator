@@ -1,4 +1,8 @@
-# co1714f829bc788cde0c5668e
+# Random Password Generator
+
+Solo project from Scrimba's "Making Websites Interactive" module of the Front End Development Career Path.
+
+In progress! The JS is working now, which was my primary focus for this project, but have not yet implemented the design in CSS. Will update soon.
 
 ## About Scrimba
 
