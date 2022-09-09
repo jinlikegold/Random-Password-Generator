@@ -1,3 +1,63 @@
 body {
-    margin: 0;
+    background-color: #1F2937;
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    left: 62px;
+    top: 64px;
+    font-family: 'Inter', sans-serif;
+}
+
+.heading {
+    font-weight: 800;
+    font-size: 40px;
+}
+
+#generate-text {
+    color: white;
+    margin-bottom: -32px;
+}
+
+#random-text {
+    color: #4ADF86;
+    margin-bottom: -10px;
+}
+
+p {
+    color: #D5D4D8;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#button-el {
+    background-color: #10B981;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 6px;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    margin: 32px 0;
+}
+
+.line {
+    border-top: 1px solid #2F3E53;
+}
+
+.gen-pass {
+    background-color: #273549;
+    position: absolute;
+    margin-top: 35px;
+    width: 211px;
+    height: 29px;
+    padding-top: 10px;
+    border-radius: 6px;
+    color: #55F991;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+
+#pass-two {
+    left: 235px;
 }

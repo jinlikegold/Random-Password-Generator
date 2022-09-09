@@ -7,7 +7,7 @@ let passTwo = document.getElementById("pass-two")
 
 buttonEl.addEventListener("click", passwordsGo)
 
-let characterLength = 16
+let characterLength = 15
 
 function generateRandomChar() {
        let randomIndex = Math.floor(Math.random() * characters.length)
