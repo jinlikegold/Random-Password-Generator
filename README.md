@@ -2,7 +2,11 @@
 
 Solo project from Scrimba's "Making Websites Interactive" module of the Front End Development Career Path.
 
-In progress! The JS is working now, which was my primary focus for this project, but have not yet implemented the design in CSS. Will update soon.
+I built this random password generator from "scratch", with only a provided character array and a design guide (linked below for reference).
+
+Learned a lot about nesting functions and calling them from within one another! It was deeply satisfying to bring this app to life, drawing upon what I've learned about generating random numbers as well as DOM manipulation. I also feel like I'm getting better at interpreting Figma designs and using a synthesis of the provided stats along with my knowledge of CSS to produce the desired results.
+
+Figma design link: https://www.figma.com/file/NEj9JDycMjF3XKXq7swoc9/Random-Password-Generator-(New-version)?node-id=102%3A702
 
 ## About Scrimba
 
